@@ -1,12 +1,12 @@
-# Wilson Mbuyu
+# 👋 Wilson Mbuyu
 
 ### Software Developer | Backend & Mobile Engineering | Cloud & DevOps
 
 📍 Nairobi, Kenya
 
-I am a software developer focused on building reliable backend systems, scalable applications, and modern mobile experiences. I enjoy designing APIs, working with databases, and exploring cloud infrastructure and automation.
+I am a software developer passionate about building scalable applications, developing reliable backend systems, and exploring cloud infrastructure and DevOps engineering.
 
-I am continuously developing my engineering skills through hands-on projects, practical problem-solving, and exploring modern software development practices.
+I enjoy transforming real-world problems into practical software solutions through clean code, thoughtful system design, and continuous learning.
 
 **Areas of Interest**
 - Backend Engineering & REST API Development
@@ -17,73 +17,108 @@ I am continuously developing my engineering skills through hands-on projects, pr
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/wilson-mbuyu-940544358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:wilsonmbuyu05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/254799084544"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://instagram.com/w.mbuyu"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@Mbuyu"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wilson-mbuyu-940544358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wilsonmbuyu05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/254799084544"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/w.mbuyu"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@Mbuyu"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
-## Technical Expertise
+## 🛠️ Technical Skills & Tools
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Backend Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### 📱 Mobile Development
 
-### Frontend & Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,html,css" />
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### Databases & Data Management
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" />
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 </p>
 
-### Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+### ☁️ Cloud Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-### DevOps, Infrastructure & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github" />
+### 🚀 Deployment & Infrastructure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-### Application Deployment & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
+### 🌍 Application Hosting & Deployment Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+### 🧪 Testing & Quality Assurance
 
-### Testing & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest,figma,canva" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
+</p>
+
+### 🔧 Version Control & Collaboration
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🎨 UI/UX & Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wilson-devop&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Wilson-devop&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wilson-devop&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Wilson-devop&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
@@ -92,7 +127,7 @@ I am continuously developing my engineering skills through hands-on projects, pr
 
 ---
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Wilson-devop&theme=darkhub&no-frame=true&margin-w=8&row=1" />
@@ -100,10 +135,10 @@ I am continuously developing my engineering skills through hands-on projects, pr
 
 ---
 
-## Currently Focused On
+## 🎯 Current Focus
 
-- Developing robust backend applications with Django REST Framework.
-- Building modern mobile and frontend applications.
+- Building robust backend applications with Django REST Framework.
+- Developing modern mobile and frontend applications.
 - Strengthening cloud computing and AWS knowledge.
 - Learning Docker, CI/CD pipelines, and infrastructure automation.
 - Improving software architecture and deployment practices.
@@ -111,5 +146,5 @@ I am continuously developing my engineering skills through hands-on projects, pr
 ---
 
 <p align="center">
-  <i>Building reliable systems. Learning continuously. Engineering solutions.</i>
+  <b>Building reliable systems. Learning continuously. Engineering solutions.</b>
 </p>
